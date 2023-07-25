@@ -1,0 +1,67 @@
+.header-up, .below-img
+{
+    background-image: linear-gradient(to right, orange,violet);
+
+}
+
+.logo, .header-nav-item
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.btn1
+{
+    min-width: 100px;
+}
+
+.img
+{
+    background-image: url(images/professional.jpg);
+    background-position: center center;
+    height: 500px;
+}
+
+.btn2
+{
+    background-image: linear-gradient(to right, orange , violet);
+    width: 150px;
+}
+
+.btn3
+{
+    width: 150px;
+}
+
+.img-inner
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    
+}
+
+.img-title
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.img-inner-inner
+{
+    display: flex;
+    gap: 40px;
+}
+
+.below-img h5{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.about h3,h5 , .service
+{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.user-exp
+{
+    width: 150px;
+}
